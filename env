@@ -14,7 +14,7 @@
 # ENVIRONMENT
 #--------------------------------------------------------------------
 
-CI_ENVIRONMENT = development
+# CI_ENVIRONMENT = development
 
 #--------------------------------------------------------------------
 # APP
@@ -26,7 +26,7 @@ CI_ENVIRONMENT = development
 # app.forceGlobalSecureRequests = false
 # app.CSPEnabled = false
 
-openweathermap.apiKey = 'efe094b8dc3085b8989ff3645059ec1e'
+# openweathermap.apiKey = 'weatherAPI'
 
 #--------------------------------------------------------------------
 # DATABASE
